@@ -19,7 +19,7 @@ st.title("Historical Figure Chatbot")
 st.write("Ask the chatbot which historical figure you want it to roleplay as: ")
 
 client = OpenAI(
-    api_key = "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"
+    api_key = "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"
 )
 
 system_prompt = """ 
